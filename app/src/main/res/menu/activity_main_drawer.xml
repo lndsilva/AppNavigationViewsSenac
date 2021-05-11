@@ -34,5 +34,15 @@
                 android:title="@string/menu_send" />
         </menu>
     </item>
+    <item android:title="Settings">
+        <menu>
+            <item
+                android:icon="@drawable/ic_baseline_settings"
+                android:title="Settings" />
+            <item
+                android:icon="@drawable/ic_baseline_person"
+                android:title="Profile" />
+        </menu>
+    </item>
 
 </menu>
